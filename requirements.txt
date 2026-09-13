@@ -1,0 +1,8 @@
+discord.py[voice]
+yt-dlp
+PyNaCl
+aiohttp
+python-dotenv
+flask
+groq
+Pillow
