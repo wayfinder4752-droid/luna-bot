@@ -21,7 +21,7 @@ bot = commands.Bot(
 
 
 # ---------- BYE CONFIG ----------
-RYUKEN_ID = 1099923662267760745
+RYUKEN_ID = 1504961534659530812
 _shutdown_in_progress = False
 
 SHUTDOWN_STEPS = [
